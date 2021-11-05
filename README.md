@@ -34,3 +34,4 @@ Utilize o <b>yarn</b> ou o <b>npm install</b> para instalar as dependências do 
 # Licença 📑
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://opensource.org/licenses/MIT) para mais detalhes.
+
